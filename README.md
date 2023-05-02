@@ -1,1 +1,3 @@
-# final-project
+# Personal Portfolio Project
+### BAIS 3300
+
